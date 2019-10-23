@@ -1,5 +1,4 @@
 # SS RPG Game
----
 #### Classes
 ![Classes](Images/Classes.png)
 
