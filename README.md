@@ -74,11 +74,12 @@
 ---
 ## World Setting
 ##### 4 Ages
-- The Age of
-- The Age of
+- The Age of the Unsettled Dawn
+- The Age of the Sycophant
 - The Age of the Crying Sun
     * Sound of war and death undone
     * Though the stretch cannot be outrun
     * The cloth of life can now be spun
     * And bathe in the light of the crying sun
-- The Age of
+- The Age of Attainment
+![Ages](Images/History.png)
