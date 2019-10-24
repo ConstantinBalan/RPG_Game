@@ -73,13 +73,14 @@
     Sandbox RPG
 ---
 ## World Setting
-##### 4 Ages
-- The Age of the Unsettled Dawn
-- The Age of the Sycophant
-- The Age of the Crying Sun
+### [4 Ages](Ages/AgeInfo.md)
+- [The Age of the Unsettled Dawn](Ages/UnsettledDawn.md)
+- [The Age of the Sycophant](Ages/Sycophant.md)
+- [The Age of the Crying Sun](Ages/CryingSun.md)
     * Sound of war and death undone
     * Though the stretch cannot be outrun
     * The cloth of life can now be spun
     * And bathe in the light of the crying sun
-- The Age of Attainment
+- [The Age of Attainment](Ages/Attainment.md)
+
 ![Ages](Images/History.png)
