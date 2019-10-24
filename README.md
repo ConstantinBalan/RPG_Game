@@ -1,77 +1,78 @@
 # SS RPG Game
-#### Classes
+
+## [Classes](Classes/ClassInfo.md)
 ![Classes](Images/Classes.png)
 
-###### Assassin:
-###### Barbarian:
-###### Hunter:
-###### Necromancer:
-###### Paladin:
-###### Priest:
-###### Rogue:
-###### Warrior:
+##### [Assassin](Classes/Assassin.md):
+##### [Barbarian](Classes/Barbarian.md):
+##### [Hunter](Classes/Hunter.md):
+##### [Necromancer](Classes/Necromancer.md):
+##### [Paladin](Classes/Paladin.md):
+##### [Priest](Classes/Priest.md):
+##### [Rogue](Classes/Rogue.md):
+##### [Warrior](Classes/Warrior.md):
 ---
-#### Races
+## [Races](Races/RaceInfo.md)
 ![Races](Images/Races.png)
 
-###### Beastmen:
-###### Demons:
-###### Dwarves:
-###### Elves:
-###### Humans:
-###### Lizardmen:
-###### Orcs:
-###### Undead:
-###### Werewolf:
-###### Wood Elves:
+##### [Beastmen](Races/Beastmen.md):
+##### [Demons](Races/Demons.md):
+##### [Dwarves](Races/Dwarves.md):
+##### [Elves](Races/Elves.md):
+##### [Humans](Races/Humans.md):
+##### [Lizardmen](Races/Lizardmen.md):
+##### [Orcs](Races/Orcs.md):
+##### [Undead](Races/Undead.md):
+##### [Werewolf](Races/Werewolf.md):
+##### [Wood Elves](Races/WoodElves.md):
 ---
-#### Alliances
+## [Alliances](Alliances/AllianceInfo.md)
 ![Alliances](Images/Alliances.png)
 
-###### Scarlet Treaty (Demons & Humans):
+##### [Scarlet Treaty (Demons & Humans)](Alliances/Scarlet_Treaty.md):
     Summary:
-###### Grayheart Concord (Dwarves & Elves & Wood Elves):
+##### [Grayheart Concord (Dwarves & Elves & Wood Elves)](Alliances/GH_Concord.md):
     Summary:
-###### Hollowdawn (Beastmen & Lizardmen):
+##### [Hollowdawn (Beastmen & Lizardmen)](Alliances/Hollowdawn.md):
     Summary:
-###### Elite Voltaic (Dwarves):
+##### [Elite Voltaic (Dwarves)](Alliances/Elite_Voltaic.md):
     Summary:
-###### Alliance of Ash (Demons & Orcs):
+##### [Alliance of Ash (Demons & Orcs)](Alliances/AoA.md):
     Summary:
-###### Drekar Hivemind (Undead):
+##### [Drekar Hivemind (Undead)](Alliances/Drekar.md):
     Summary:
-###### Coldsong (Werewolves & Undead):
+##### [Coldsong (Werewolves & Undead)](Alliances/Coldsong.md):
     Summary:
-###### Vosk Resistance (Orcs & Lizardmen):
+##### [Vosk Resistance (Orcs & Lizardmen)](Alliances/Vosk.md):
     Summary:
-###### Secret of the Unseen (Wood Elves & Beastmen):
+##### [Secret of the Unseen (Wood Elves & Beastmen)](Alliances/Secret_Unseen.md):
     Summary: 
-###### The Hallowed Dynasty (Werewolves & Humans & Elves):
+##### [The Hallowed Dynasty (Werewolves & Humans & Elves)](Alliances/Hallowed_Dynasty.md):
     Summary:
 ---
-#### Potential Skills
+## [Skills](Skills/SkillsInfo.md)
 ![Skills](Images/Skills.png)
 
-###### Alchemy: 
-###### Blacksmithing: 
-###### Carpentry: 
-###### Diplomacy: 
-###### Farming: 
-###### Fishing: 
-###### Hunting: 
-###### Mining: 
-###### Tailoring: 
+##### [Alchemy](Skills/Alchemy.md): 
+##### [Blacksmithing](Skills/Blacksmithing.md): 
+##### [Carpentry](Skills/Carpentry.md): 
+##### [Diplomacy](Skills/Diplomacy.md): 
+##### [Farming](Skills/Farming.md): 
+##### [Fishing](Skills/Fishing.md): 
+##### [Hunting](Skills/Hunting.md): 
+##### [Mining](Skills/Mining.md): 
+##### [Tailoring](Skills/Tailoring.md): 
 ---
-#### Game Playstyle
+## Game Playstyle
     [Description here]
 ---
-#### Perspective
+## Perspective
     Either 3rd person w/
 ---
-#### Game Style
+## Game Style
     Sandbox RPG
 ---
-#### World Setting
+## World Setting
 ##### 4 Ages
 - The Age of
 - The Age of
