@@ -41,7 +41,8 @@
     Summary:
 ##### [Drekar Hivemind (Undead)](Alliances/Drekar.md):
     Summary: The reign of Vul littered the lands of Peybos with the corpses of those
-    unfortunate enough to enter his warpath. Vrauddeel Drekar, high spiritualist of Grandis and self-proclaimed ferryman of the Overworld, dedicated his life to 
+    unfortunate enough to enter his warpath. Vrauddeel Drekar, high spiritualist of
+    Grandis and self-proclaimed ferryman of the Overworld, dedicated his life to 
     helping these lost beings rest. With his bones aching and his hands calloused, 
     Drekar would transport the bodies of every race to De'Carres Refuge for months on 
     end. There would be no rest for the man until his demise in the mausoleum he had 
@@ -57,7 +58,7 @@
     rise and organize in an unfathomable fashion which has now become known as the 
     Drekar Hivemind. Vilified by most and headed by an unspecified motive, the hivemind 
     assembles and awaits for its next command.
-    
+
 ##### [Coldsong (Werewolves & Undead)](Alliances/Coldsong.md):
     Summary:
 ##### [Vosk Resistance (Orcs & Lizardmen)](Alliances/Vosk.md):
