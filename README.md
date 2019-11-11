@@ -6,7 +6,7 @@
 ##### [Shapeshifter](Classes/Shapeshifter.md):
 ##### [Berserker](Classes/Berserker.md):
 ##### [Nomad](Classes/Nomad.md):
-##### [Mindbender](Classes/Mindbender.md)
+##### [Mindbender](Classes/Mindbender.md):
 ##### [Gravecaller](Classes/Gravecaller.md):
 ##### [Sentinel](Classes/Sentinel.md):
 ##### [Oracle](Classes/Oracle.md):
