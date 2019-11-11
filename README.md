@@ -3,28 +3,35 @@
 ## [Classes](Classes/ClassInfo.md)
 ![Classes](Images/Classes.png)
 
-##### [Assassin](Classes/Assassin.md):
-##### [Barbarian](Classes/Barbarian.md):
-##### [Hunter](Classes/Hunter.md):
-##### [Necromancer](Classes/Necromancer.md):
-##### [Paladin](Classes/Paladin.md):
-##### [Priest](Classes/Priest.md):
-##### [Rogue](Classes/Rogue.md):
-##### [Warrior](Classes/Warrior.md):
+##### [Shapeshifter](Classes/Shapeshifter.md):
+##### [Berserker](Classes/Berserker.md):
+##### [Nomad](Classes/Nomad.md):
+##### [Mindbender](Classes/Mindbender.md)
+##### [Gravecaller](Classes/Gravecaller.md):
+##### [Sentinel](Classes/Sentinel.md):
+##### [Oracle](Classes/Oracle.md):
+##### [Scavenger](Classes/Scavenger.md):
+##### [Juggernaut](Classes/Juggernaut.md):
 ---
 ## [Races](Races/RaceInfo.md)
 ![Races](Images/Races.png)
 
 ##### [Beastmen](Races/Beastmen.md):
+The result of a interspecies mating of the humans and the long eradicated Videra, Beastmen have generally been viewed as a shunned group of genetic mistakes. Holed up on the Western coast, they have tried to become an accepted and legitimate species among the other inhabitants of Peybos. Whether it be their disproportionate physical appearance or the lack of maturity in the political landscape of the planet, the beasts continue to struggle to cement a positive image across those who discriminate against them.
 ##### [Demons](Races/Demons.md):
 ##### [Dwarves](Races/Dwarves.md):
+A small, strong, and resourceful people, the Dwarves have long been fortified around the great Mount Ke'hal. They siphon the metals and magma from Ke'hal and the surrounding Ke'halnai mountain range to create the finest tools and weapons in the land. Their craft is revered by the majority of the inhabitants of Peybos and is credited to cutting down on the deaths during The Age of the Sycophant.
 ##### [Elves](Races/Elves.md):
+Separated from their wooden cousins long ago, the Elves have taken to what they believe to be their natural home, the Floating Cevlon Isles. The long term isolation in the sky has instilled an elitist mentality in the majority of the Elves. Seeing themselves as the only hope for a civilized Peybos has made it difficult for outsiders to compromise with the widely detested laws and ideals of the Elves.
 ##### [Humans](Races/Humans.md):
 ##### [Lizardmen](Races/Lizardmen.md):
+The Lizardmen have always swam in the waters of Taralask Grove, but not always as men. According to records of the High Elves, the grove was only home to small lizards and bugs in the early portion of The Age of the Unsettled Dawn. A species of lizards rapidly evolved to represent their surrounding superiors. The lizard creatures appeared to morph to resemble humans at almost twice their height and more than three times their intelligence. Restricted only by their own volition, they continue to adapt and learn from their environment, to one day become a significant force in Peybos.
 ##### [Orcs](Races/Orcs.md):
 ##### [Undead](Races/Undead.md):
 ##### [Werewolf](Races/Werewolf.md):
 ##### [Wood Elves](Races/WoodElves.md):
+Nestled in the heart of the Whispering Forest, the Wood Elves are considered to be one with the planet. Tending to the woods they reside in and coexisting with the flora and fauna of Peybos, they use their innate skills to take advantage of their natural surroundings. The elders say that the first Wood Elves were birthed from the Dordove trees deep in the forest before any of the other races appeared on the planet. Before the Tumari Wastes cut the vast expanse of their woodland, they were the largest kingdom ever recorded.
+
 ---
 ## [Alliances](Alliances/AllianceInfo.md)
 ![Alliances](Images/Alliances.png)
@@ -40,7 +47,7 @@
 ##### [Alliance of Ash (Demons & Orcs)](Alliances/AoA.md):
     Summary:
 ##### [Drekar Hivemind (Undead)](Alliances/Drekar.md):
-Summary: The reign of Vul littered the lands of Peybos with the corpses of those
+ The reign of Vul littered the lands of Peybos with the corpses of those
 unfortunate enough to enter his warpath. Vrauddeel Drekar, high spiritualist of
 Grandis and self-proclaimed ferryman of the Overworld, dedicated his life to 
 helping these lost beings rest. With his bones aching and his hands calloused, 
